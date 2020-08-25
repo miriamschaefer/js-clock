@@ -93,12 +93,12 @@ body {
   height: 5px;
 }
 
-.noon-six,
-.one-seven,
-.two-eight,
-.three-nine,
-.four-ten,
-.five-eleven {
+.noon,
+.one,
+.two,
+.three,
+.four,
+.five {
   position: absolute;
   top: 15rem;
   width: 100%;
@@ -107,22 +107,22 @@ body {
   z-index: -20;
 }
 
-.noon-six {
+.noon {
   transform: rotate(90deg);
 }
 
-.one-seven {
+.one {
   transform: rotate(300deg);
 }
 
-.two-eight {
+.two {
   transform: rotate(330deg);
 }
 
-.four-ten {
+.four {
   transform: rotate(30deg);
 }
 
-.five-eleven {
+.five {
   transform: rotate(60deg);
 }
