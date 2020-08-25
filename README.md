@@ -1,4 +1,4 @@
-# Javascript clock #Javascript30
+# Javascript clock ⏰
 
 Exercise 2/30, part of the [#Javascript30](https://javascript30.com/) course.
 
